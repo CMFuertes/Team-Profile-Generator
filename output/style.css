@@ -1,5 +1,5 @@
 body {
-    background-color: #5d5c61;
+    /* background-color: #5d5c61; */
     box-sizing: border-box;
     font-family: Trebuchet MS, Helvetica, sans-serif;
 }
@@ -10,7 +10,7 @@ h1 {
 }
 
 .team-heading {
-    background-color:#000000;
+    background-color:#8e83b8;
     color: #ffffff;
 }
 
@@ -23,7 +23,7 @@ h1 {
 .card{
     border-color:#323042;
     margin: 10px;
-    background-color:  #5d5c61;
+    background-color:  #cec8e7;
     box-shadow: 10px 10px #323042;
 }
 
@@ -43,17 +43,3 @@ h1 {
     width: 40%;
 }
 
-.manager>.card-header {
-    background-color:#8a1b1b;
-    color: #ffffff;
-}
-
-.engineer>.card-header {
-    background-color: #12421a;
-    color:#ffffff;
-}
-
-.intern>.card-header {
-    background-color:#3f0a3f;
-    color:#ffffff;
-}
