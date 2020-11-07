@@ -1,0 +1,59 @@
+body {
+    background-color: #5d5c61;
+    box-sizing: border-box;
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.team-heading {
+    background-color:#000000;
+    color: #ffffff;
+}
+
+
+.team-area {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card{
+    border-color:#323042;
+    margin: 10px;
+    background-color:  #5d5c61;
+    box-shadow: 10px 10px #323042;
+}
+
+.list-group-item {
+    background-color:#ffffff;
+}
+
+.manager {
+    width:90%;
+}
+
+.engineer {
+    width: 45%;
+}
+
+.intern {
+    width: 40%;
+}
+
+.manager>.card-header {
+    background-color:#8a1b1b;
+    color: #ffffff;
+}
+
+.engineer>.card-header {
+    background-color: #12421a;
+    color:#ffffff;
+}
+
+.intern>.card-header {
+    background-color:#3f0a3f;
+    color:#ffffff;
+}
