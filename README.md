@@ -2,7 +2,7 @@
 
 # Notetaker ![NPM](https://img.shields.io/npm/l/sta)
 
-![Gif](https://github.com/CMFuertes/note-taker/blob/master/Notetaker.png?raw=true)
+
 
 ## Table Of Contents 
 
@@ -44,7 +44,11 @@ In order to edit this application, after cloning the repo, users are to enter th
 
 Then users are to input "npm run test" to assure the app is functioning properly 
 
+![Gif](https://github.com/CMFuertes/Team-Profile-Generator/blob/master/Assets/runtests.gif?raw=true)
+
 Next, type in "node app.js" to start the question prompts. 
+
+![Gif](https://github.com/CMFuertes/Team-Profile-Generator/blob/master/Assets/runtests.gif?raw=true)
 
 When the user hits "done" the output file "team.html" will show the team you created. 
 
