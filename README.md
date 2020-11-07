@@ -29,7 +29,7 @@ cristhal.fuertes@gmail.com
 
 ## Repository Name
 
-Team Profil Generator 
+Team Profile Generator 
 
 https://github.com/CMFuertes/Team-Profile-Generator
 ## Description
