@@ -2,7 +2,7 @@
 
 # Notetaker ![NPM](https://img.shields.io/npm/l/sta)
 
-
+![Screenshot](https://github.com/CMFuertes/Team-Profile-Generator/blob/master/Assets/Screenshot.png?raw=true)
 
 ## Table Of Contents 
 
