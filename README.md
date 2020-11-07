@@ -1,4 +1,4 @@
-# Team Profil Generator 
+# Team Profile Generator 
 
 # Notetaker ![NPM](https://img.shields.io/npm/l/sta)
 
